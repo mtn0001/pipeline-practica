@@ -1,0 +1,14 @@
+{
+  "name": "pipeline-practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "test": "echo 'Ejecutando pruebas... ¡Todo en orden!' && exit 0",
+  "build": "echo 'Construyendo la aplicación... Listo.'"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
