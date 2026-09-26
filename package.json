@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
 "scripts": {
-  "test": "echo 'Ejecutando pruebas... ¡Todo en orden!' && exit 0",
+  "test": "echo 'Ejecutando pruebas... ¡Todo en orden!' && exit 1",
   "build": "echo 'Construyendo la aplicación... Listo.'"
 },
   "keywords": [],
